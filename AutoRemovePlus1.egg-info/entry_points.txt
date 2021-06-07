@@ -1,0 +1,8 @@
+
+    [deluge.plugin.core]
+    AutoRemovePlus1 = autoremoveplus1:CorePlugin
+    [deluge.plugin.gtkui]
+    AutoRemovePlus1 = autoremoveplus1:GtkUIPlugin
+    [deluge.plugin.web]
+    AutoRemovePlus1 = autoremoveplus1:WebUIPlugin
+    
